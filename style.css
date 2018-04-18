@@ -1,2 +1,62 @@
 .navbar {
 border-radius: 0px;
+
+/* 
+<!-- Modal -->
+<div class="modal fade" id="myModal" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Hipster Ultimate</h4>
+      </div>
+      <div class="modal-body">
+        <div class="alert alert-info" role="alert"><span class="
+          glyphicon glyphicon-info-sign"></span> Este producto está agotado.</div>
+
+          <!-- image and price -->
+          <div class="row">
+            <div class="col-md-6">
+              <img src="https://s3.amazonaws.com/makeitreal/projects/e-commerce/camiseta-1.jpg" alt="..." class="img-thumbnail">
+            </div>
+            <div class="col-md-6">
+              <p>Precio: <strong>$299</strong></p>
+              <p>Calificación:
+                <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star-empty"></span></p>
+                <div>
+                  <span class="label label-default">Hipster</span> <span class="label label-warning">Deportiva</span>
+                </div><br>
+
+            <p class="text-primary"><span class="glyphicon glyphicon-heart"></span> Agregar a los deseos</p>
+              </div>
+            </div><br>
+            <!-- Dynamic Tab-->
+            <ul class="nav nav-tabs">
+              <li class="active"><a data-toggle="tab" href="#description">Descripción</a></li>
+              <li><a data-toggle="tab" href="#comment">Comentarios</a></li>
+            </ul>
+
+            <div class="tab-content">
+              <div id="description" class="tab-pane fade in active">
+                <br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+              </div>
+              <div id="comment" class="tab-pane fade">
+                <div class="panel panel-default">
+                  <div class="panel-heading">Miguel Mass comentó hace 2 días</div>
+                  <div class="panel-body">
+                    Esta camisa está muy barata, cuanto vale el envio a medellin?
+                  </div>
+                </div>
+                <textarea class="form-control" rows="3" placeholder="Ingresa tu comentario"></textarea>
+
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <a href="#" class="btn btn-primary" role="button">Detalles</a><
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div> */
